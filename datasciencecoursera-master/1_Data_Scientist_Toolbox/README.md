@@ -27,11 +27,11 @@ Quiz # | Link
 Quiz # | Link 
 --- | --- 
 
-5 | [Final Quiz](https://github.com/Pdshende/datasciencecoursera/new/master/1_Data_Scientist_Toolbox/week%203)
-4 | [Quiz](https://github.com/Pdshende/datasciencecoursera/blob/master/1_Data_Scientist_Toolbox/week%203/quizes/quiz4.md)
-3 | [Quiz](https://github.com/Pdshende/datasciencecoursera/blob/master/1_Data_Scientist_Toolbox/week%203/quizes/quiz3.md)
-2 | [Quiz](https://github.com/Pdshende/datasciencecoursera/blob/master/1_Data_Scientist_Toolbox/week%203/quizes/quiz2.md)
-1 | [Quiz](https://github.com/Pdshende/datasciencecoursera/blob/master/1_Data_Scientist_Toolbox/week%203/quizes/quiz1.md)
+5 | [Final Quiz](https://github.com/Pdshende/datasciencecoursera-master/blob/master/datasciencecoursera-master/1_Data_Scientist_Toolbox/week%203/Final%20Quiz.md)
+4 | [Quiz](https://github.com/Pdshende/datasciencecoursera-master/blob/master/datasciencecoursera-master/1_Data_Scientist_Toolbox/week%203/quizes/quiz4.md)
+3 | [Quiz](https://github.com/Pdshende/datasciencecoursera-master/blob/master/datasciencecoursera-master/1_Data_Scientist_Toolbox/week%203/quizes/quiz3.md)
+2 | [Quiz](https://github.com/Pdshende/datasciencecoursera-master/blob/master/datasciencecoursera-master/1_Data_Scientist_Toolbox/week%203/quizes/quiz2.md)
+1 | [Quiz](https://github.com/Pdshende/datasciencecoursera-master/blob/master/datasciencecoursera-master/1_Data_Scientist_Toolbox/week%203/quizes/quiz1.md)
 ## Project 
 Quiz # | Link | Youtube Tutorial
 --- | --- | ---
